@@ -8,4 +8,4 @@ Holmusk aims to enhance NeuroBlu Health’s analytical capabilities by developin
 - `model2.py` - Python script implementing data preprocessing, feature engineering, optimization, and regression analysis for health inequity assessment.
 
 ## Neuroblu
-- ' we used usi account 1 for this project
+- We used usi account 1 for this project
